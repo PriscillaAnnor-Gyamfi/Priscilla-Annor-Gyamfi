@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects</h2>
 
 - <b>Pandas projects</b>
-  - [NYC Taxi data wrangling](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NYC Taxi data wrangling](https://github.com/PriscillaAnnor-Gyamfi/NYC-Data-Wrangling/)
   - [Chicago Population data cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
