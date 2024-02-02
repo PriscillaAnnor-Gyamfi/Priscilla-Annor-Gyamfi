@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects</h2>
 
-- <b>Python Projects/b>
+- <b>Python Projects</b>
   - [NYC Taxi data wrangling](https://github.com/PriscillaAnnor-Gyamfi/NYC-Data-Wrangling/)
   - [Chicago Population data cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Projects</b>
