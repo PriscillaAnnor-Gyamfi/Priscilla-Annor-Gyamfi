@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Python Projects</b>
-  - [NYC Taxi data wrangling](https://github.com/PriscillaAnnor-Gyamfi/NYC-Data-Wrangling/)
+  - [Hotel Bookings](https://github.com/PriscillaAnnor-Gyamfi/)
   - [Chicago Population data cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
