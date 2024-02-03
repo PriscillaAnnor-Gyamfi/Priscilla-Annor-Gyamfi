@@ -5,7 +5,7 @@
 - <b>Python Projects</b>
   - [Hotel Bookings](https://github.com/PriscillaAnnor-Gyamfi/Hotel-Bookings)
   - [AirBnB ](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
-  - [Patients Appointment Case Study ](https://github.com/PriscillaAnnor-Gyamfi/Patients_Appointment_Case_Study)
+  - [Patients Appointment Case Study ](https://github.com/PriscillaAnnor-Gyamfi/Patients_Appointment)
   - [Southern Water Corp OLS Case Study](https://github.com/PriscillaAnnor-Gyamfi/Southern_Water_Corp_OLS_Case_Study)
   - [Shootings Case Study](https://github.com/PriscillaAnnor-Gyamfi/Shootings_Case_Study)
 - <b>SQL Projects</b>
