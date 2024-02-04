@@ -25,9 +25,9 @@
 
 <h2>Certifications</h2>
 
-- [Springboard Data Analytics Bootcamp](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Data Analytics](https://i.imgur.com/rFjPjyu.png)
 - [HealthCare Analytics](https://i.imgur.com/ZquHArc.png)
-- [Google Data Analytics Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:EU:de845489-2251-4a59-830c-fa669b36af35)
+- [Springboard Data Analytics Bootcamp](https://acrobat.adobe.com/id/urn:aaid:sc:EU:de845489-2251-4a59-830c-fa669b36af35)
 
 <h2> 🤳 Connect with me:</h2>
 
