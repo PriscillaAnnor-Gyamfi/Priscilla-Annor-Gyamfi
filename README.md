@@ -27,7 +27,7 @@
 
 - [Springboard Data Analytics Bootcamp](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [HealthCare Analytics](https://i.imgur.com/ZquHArc.png)
-- [Google Data Analytics Certificate](https://imgur.com/a/xUlMQml)
+- [Google Data Analytics Certificate](https://www.linkedin.com/in/priscilla-annor-gyamfi/overlay/1635553077383/single-media-viewer/?profileId=ACoAACO_TDQB8NAX9vOi1mFizMd4eQo_5a5qbj4)
 
 
 <h2> 🤳 Connect with me:</h2>
