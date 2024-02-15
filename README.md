@@ -7,10 +7,10 @@
   - [AirBnB ](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
   - [Patients Appointment Case Study ](https://github.com/PriscillaAnnor-Gyamfi/Patients_Appointment)
   - [Southern Water Corp OLS Case Study](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study)
-  - [Shootings Case Study](https://github.com/PriscillaAnnor-Gyamfi/Shootings_Case_Study)
+
 - <b>SQL Projects</b>
   - [AEMR Project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
-  - [Church Membership Database](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Church Membership Database](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Tableau Projects</b>
   - [HR Employee Attrition Analysi](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
@@ -18,8 +18,7 @@
   - [Bicycle Bloom 2020](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Power BI Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+ 
 - <b>Excel Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
