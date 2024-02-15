@@ -6,7 +6,7 @@
   - [Hotel Bookings](https://github.com/PriscillaAnnor-Gyamfi/Hotel-Bookings)
   - [AirBnB ](https://github.com/PriscillaAnnor-Gyamfi/AirBnB)
   - [Patients Appointment Case Study ](https://github.com/PriscillaAnnor-Gyamfi/Patients_Appointment)
-  - [Southern Water Corp OLS Case Study](https://github.com/PriscillaAnnor-Gyamfi/Southern_Water_Corp_OLS_Case_Study)
+  - [Southern Water Corp OLS Case Study](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study)
   - [Shootings Case Study](https://github.com/PriscillaAnnor-Gyamfi/Shootings_Case_Study)
 - <b>SQL Projects</b>
   - [AEMR Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
