@@ -12,7 +12,7 @@
   - [AEMR Project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Church Membership Database](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Tableau Projects</b>
-  - [HR Employee Attrition Analysi](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
+  - [HR Employee Attrition Analysis](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
   - [Bicycle Bloom 2020](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
