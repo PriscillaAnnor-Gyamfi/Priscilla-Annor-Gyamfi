@@ -20,7 +20,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
  
 - <b>Excel Projects</b>
-  - [Southern Water Corp](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Southern Water Corp](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
 
 <h2>Certifications</h2>
 
