@@ -9,11 +9,11 @@
   - [Southern Water Corp OLS Case Study](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study)
   - [Shootings Case Study](https://github.com/PriscillaAnnor-Gyamfi/Shootings_Case_Study)
 - <b>SQL Projects</b>
-  - [AEMR Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [AEMR Project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Church Membership Database](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Tableau Projects</b>
   - [HR Employee Attrition Analysi](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [AEMR project](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
   - [Bicycle Bloom 2020](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Power BI Projects</b>
