@@ -14,7 +14,7 @@
 - <b>Tableau Projects</b>
   - [HR Employee Attrition Analysi](https://github.com/joshmadakor1/Sentinel-Lab)
   - [AEMR project](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Predicting House Sales Pricing in King County ](https://github.com/joshmadakor1/AD_PS)
+  - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
   - [Bicycle Bloom 2020](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Power BI Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
