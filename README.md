@@ -11,7 +11,7 @@
 
 - <b>SQL Projects</b>
   - [AEMR Project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
-  - [Famous Painting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Famous Painting](https://github.com/PriscillaAnnor-Gyamfi/Famous-Painting)
 - <b>Tableau Projects</b>
   - [HR Employee Attrition Analysis](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
