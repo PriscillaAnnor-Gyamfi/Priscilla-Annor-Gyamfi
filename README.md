@@ -22,7 +22,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
  
 - <b>Excel Projects</b>
-  - [Southern Water Corp (Financial, Economics & Statistics Analysis](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
+  - [Southern Water Corp (Financial, Economics & Statistics Analysis)](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
 
 <h2>Certifications</h2>
 
