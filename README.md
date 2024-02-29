@@ -16,7 +16,7 @@
   - [HR Employee Attrition Analysis](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
-  - [Chemcorp Business Analysis](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study)
+  - [Chemcorp Business Analysis](https://github.com/PriscillaAnnor-Gyamfi/Chemcorp-Business-Analysis)
   - [Bicycle Bloom 2020](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Power BI Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
