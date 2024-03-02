@@ -1,4 +1,4 @@
-<h1>Hi, I'm Priscilla! <br/>I'm an end-to-end Data Analyst Professional looking for  Data Analyst and Business Intelligence related roles. <br/> <a href="<a href="https://www.linkedin.com/in/priscilla-annor-gyamfi/">My LinkedIn</a></h1>
+<h1>Hi, I'm Priscilla! <br/>An end-to-end Data Analyst Professional looking for  Data Analyst and Business Intelligence related roles. <br/> <a href="<a href="https://www.linkedin.com/in/priscilla-annor-gyamfi/">My LinkedIn</a></h1>
 
 <h2>👨‍💻 Selected Data Analytics Projects</h2>
 
