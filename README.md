@@ -29,7 +29,7 @@
 - [Google Data Analytics](https://i.imgur.com/rFjPjyu.png)
 - [Health Care Analytics](https://i.imgur.com/ZquHArc.png)
 - [Springboard Data Analytics Bootcamp](https://acrobat.adobe.com/id/urn:aaid:sc:EU:de845489-2251-4a59-830c-fa669b36af35)
-- [Bachelors Degree](https://acrobat.adobe.com/id/urn:aaid:sc:EU:de845489-2251-4a59-830c-fa669b36af35)
+- [Bachelor's Degree](https://acrobat.adobe.com/id/urn:aaid:sc:EU:de845489-2251-4a59-830c-fa669b36af35)
 
 <h2> 🤳 Connect with me:</h2>
 
