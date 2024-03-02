@@ -18,7 +18,7 @@
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
   - [Chemcorp Business Analysis](https://github.com/PriscillaAnnor-Gyamfi/Chemcorp-Business-Analysis)
   - [Bicycle Bloom 2020](https://github.com/PriscillaAnnor-Gyamfi/BicycleBloom)
-- <b>Power BI Projects</b>
+
   
  
 - <b>Excel Projects</b>
