@@ -24,6 +24,7 @@
  
 - <b>Excel Projects</b>
   - [Southern Water Corp (Financial, Economics & Statistics Analysis)](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
+  - [Executive Dashboard](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-/blob/main/README.md)
 
 <h2>Education/Certifications</h2>
 
