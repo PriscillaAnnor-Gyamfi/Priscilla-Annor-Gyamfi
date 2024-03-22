@@ -12,13 +12,16 @@
 - <b>SQL Projects</b>
   - [AEMR Project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Famous Painting](https://github.com/PriscillaAnnor-Gyamfi/Famous-Painting)
+ 
+    
 - <b>Tableau Projects</b>
+  - [Executive Dashboard](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-for-a-Bicycle-Company/blob/main/README.md)
   - [HR Employee Attrition Analysis](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
   - [Chemcorp Business Analysis](https://github.com/PriscillaAnnor-Gyamfi/Chemcorp-Business-Analysis)
   - [Bicycle Bloom 2020](https://github.com/PriscillaAnnor-Gyamfi/BicycleBloom)
-  - [Executive Dashboard](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-for-a-Bicycle-Company/blob/main/README.md)
+  - [COVID-19 Global Vaccine Tracker](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-for-a-Bicycle-Company/blob/main/README.md)
 
   
  
