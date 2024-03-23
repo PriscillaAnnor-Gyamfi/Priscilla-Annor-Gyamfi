@@ -16,7 +16,7 @@
     
 - <b>Tableau Projects</b>
   - [COVID-19 Global Vaccine Tracker Dashboard](https://github.com/PriscillaAnnor-Gyamfi/COVID-19-Global-Vaccine-Tracker)
-  - [Executive Dashboard](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-for-a-Bicycle-Company/blob/main/README.md)
+  - [Executive Dashboard for a Bike Company](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-for-a-Bicycle-Company/blob/main/README.md)
   - [HR Employee Attrition Analysis](https://github.com/PriscillaAnnor-Gyamfi/HR-Employee-Attrition)
   - [AEMR project](https://github.com/PriscillaAnnor-Gyamfi/AEMR-Case-Study)
   - [Predicting House Sales Pricing in King County ](https://github.com/PriscillaAnnor-Gyamfi/Predicting-House-Sales-Price-In-King-County)
