@@ -23,8 +23,8 @@
   - [Chemcorp Business Analysis](https://github.com/PriscillaAnnor-Gyamfi/Chemcorp-Business-Analysis)
   - [Bicycle Bloom 2020](https://github.com/PriscillaAnnor-Gyamfi/BicycleBloom)
   
-<!--- <b>Power BI Projects</b>
-  - [Patients Emergency Room Visit Report](https://github.com/PriscillaAnnor-Gyamfi/Patients-Emergency-Room-Visit-Report) >!--
+<!---  <b>Power BI Projects</b>
+  - [Patients Emergency Room Visit Report](https://github.com/PriscillaAnnor-Gyamfi/Patients-Emergency-Room-Visit-Report)  --->
  
 - <b>Excel Projects</b>
   - [Southern Water Corp (Financial, Economics & Statistics Analysis)](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
