@@ -36,7 +36,7 @@
 - [Google Data Analytics](https://i.imgur.com/rFjPjyu.png)
 - [Healthcare Analytics](https://i.imgur.com/ZquHArc.png)
 - [Springboard Data Analytics Bootcamp](https://i.imgur.com/g51mlV4.png)
-- [Bachelor's Degree in Computer Science with Statistics](https://i.imgur.com/NY2nrCt.png)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
