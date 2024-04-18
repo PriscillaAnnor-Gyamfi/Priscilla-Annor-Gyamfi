@@ -31,7 +31,7 @@
   - [Executive Dashboard for A Bicycle Company](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-/blob/main/README.md)
 
 <h2>Education/Certifications</h2>
-
+- [BSC Computer Science with Statistics]
 - [Google Data Analytics](https://i.imgur.com/rFjPjyu.png)
 - [Healthcare Analytics](https://i.imgur.com/ZquHArc.png)
 - [Springboard Data Analytics Bootcamp](https://i.imgur.com/g51mlV4.png)
