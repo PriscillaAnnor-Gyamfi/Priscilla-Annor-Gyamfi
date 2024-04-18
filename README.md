@@ -30,8 +30,11 @@
   - [Southern Water Corp (Financial, Economics & Statistics Analysis)](https://github.com/PriscillaAnnor-Gyamfi/Southern-Water-Corp-OLS-Case-Study/tree/main)
   - [Executive Dashboard for A Bicycle Company](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-/blob/main/README.md)
 
-<h2>Education/Certifications</h2>
-- [BSC Computer Science with Statistics]
+<h2>Education</h2>
+  - BSC Computer Science with Statistics
+
+<h2>Certifications</h2>
+
 - [Google Data Analytics](https://i.imgur.com/rFjPjyu.png)
 - [Healthcare Analytics](https://i.imgur.com/ZquHArc.png)
 - [Springboard Data Analytics Bootcamp](https://i.imgur.com/g51mlV4.png)
