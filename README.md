@@ -31,7 +31,7 @@
   - [Executive Dashboard for A Bicycle Company](https://github.com/PriscillaAnnor-Gyamfi/Executive-Dashboard-/blob/main/README.md)
 
 <h2>Education</h2>
-BSc. Computer Science with Statistics
+<b>BSc. Computer Science with Statistics</b>
 
 <h2>Certifications</h2>
 
